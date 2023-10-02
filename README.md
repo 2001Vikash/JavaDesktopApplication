@@ -10,7 +10,6 @@ This GitHub repository contains the source code and documentation for a Java des
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 
 ## Features
 
@@ -63,6 +62,3 @@ Follow these instructions to set up and run the Java Desktop Application on your
 - Customize and extend the application by adding your modules or components.
 - Explore the codebase and documentation to understand how to implement various desktop application patterns and functionalities.
 
-## Contributing
-
-Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this project.
